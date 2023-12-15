@@ -36,5 +36,5 @@ default:printf("\n el codigo es incorrecto");
 }
 tp= lib*pre;
 printf("\n el total a pagar es:%5.2f",tp);
-getch();
+getchar();
 }

@@ -1,0 +1,35 @@
+    *{
+        font-family:"Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif";
+        list-style: none;
+    }
+    body{
+        background-image: url(foto-colegio-800x500.jpg);
+        background-size:cover;
+    }
+    .Unde{
+        color:#ffffff;
+        font-family:"Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif";
+        text-align: center;
+    }
+    table, th , td, caption{
+    	color: white;
+    	border: 3px white solid;
+    	text-align: center;
+	}
+	table{
+		margin-left: auto;
+  		margin-right: auto;
+	}
+	.marquee{
+		color: white;
+	}
+	video{
+		width: 500px;
+	}
+    a{
+        text-decoration: none;
+        color:white;
+    }
+    a:hover{
+        background-color:black;
+    }

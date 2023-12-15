@@ -1,5 +1,4 @@
 # Estudios para comenzar a ser un developer
-    Soy Danilo, mucha gente me conoce como Panda, Pap, PapLion o Paptoedar12. 
     Trabajo digitalmente desde q tengo 11 años como editor de videos pero realmente hacia muy pocas comisiones 
     por lo cual no me daba pa decir que esu un trabajo serio sumado a las largas horas que se dedicaba a 
     editar videos y lo poco que se paga en este sector a los editores nuevos y mi falta de contactos no pense 
