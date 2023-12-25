@@ -1,0 +1,62 @@
+*{
+    margin:0px auto;    color: black;
+    list-style: none;
+
+}
+#container{ 
+    background-color: lightskyblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px auto; /*centrar al centro de el bloque q lo tiene por ejemplo creo q seria body*/
+    border: 10px solid black;
+}
+header{
+    background-color: lightgray;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px; /*centrar de manera vertial :D*/
+    border-bottom: 3px dashed black;
+}
+nav{
+    background-color: lightcoral;
+    height: 50px;
+    border-bottom: 3px dashed black;
+}
+nav ul li{ /* a esto no le afecta el text-aling:center; */
+    float: left; /*Hacer q se alinien los elementos :D*/
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+/*Que los elementos de abajo no suban hacia arriba*/
+.clearfix{
+    clear: both; /*Para cuando se flote los elementos del li los elementos de abajo se quedan en su sitio uwu*/
+}
+#content{
+    float: left;
+    min-height: 500px;
+    width: 80%;
+    background-color: lightskyblue;
+}
+aside{ 
+    float: left;
+    min-height: 500px;
+    width: 20%;
+    background-color: lightgrey;
+}
+fieldset{
+    min-height: 265px;
+}
+/* div{
+    background-color: lightslategray;
+} */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 10px;
+    width: 100%;
+    line-height: 20px;
+    border: 3px dashed black;
+
+}
