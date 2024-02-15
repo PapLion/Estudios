@@ -3,5 +3,6 @@
         "./console/Cargo.toml",
         "./console/Cargo.toml",
         "./console/Cargo.toml"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
