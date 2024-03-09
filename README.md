@@ -1,17 +1,30 @@
-# Estudios para comenzar a ser un developer
-    Trabajo digitalmente desde q tengo 11 años como editor de videos pero realmente hacia muy pocas comisiones 
-    por lo cual no me daba pa decir que esu un trabajo serio sumado a las largas horas que se dedicaba a 
-    editar videos y lo poco que se paga en este sector a los editores nuevos y mi falta de contactos no pense 
-    que podria seguir de manera seria con esto asi que me cambie de sector a la programacion debido a que es algo 
-    q me llamo mucho la atencion.
+## Acerca de mí
 
-    Llevo casi 2 años aprendiendo programacion, pero solo conozco los conceptos basicos realmente aun no
-    eh trabajado con ningun proyecto grande. Este año me estoy poniendo serio para convertirme en un 
-    desarrollador y empezar a trabajar y gracias a eso eh dado pasos grandes como elegir todos mis 
-    lenguajes de programacion que deseo aprender, aprender sobre mis pasiones, entre muchas cosas.
+### Hola, soy Danilo López 👋
 
-    Este repositorio es sobre todo mis estudios digamos que es mi "Cuaderno de Borrador" 
-    donde se puede ver todo acerca de como estoy estudiando y todas las cosas que voy a estudiar. 
-    Cuidado si sos ortografico sensible :nerd_face: pq veras una ortografia que te cagas es algo que 
-    tambien estoy intentando mejorar asi que dare pasito a pasito.
+Soy un estudiante apasionado con intereses en WebDev, AiDev y GameDev. Actualmente, estoy aprendiendo y explorando el mundo del desarrollo web. Estoy emocionado por colaborar en proyectos interesantes.
 
+- 🌱 **Aprendiendo Actualmente**: Desarrollo Web
+- 💼 **Interesado en Colaborar en**: Proyectos Emocionantes
+- 📫 **Cómo Contactarme**: Discord (PapLion#95228)
+
+### Acerca de Mí
+
+Soy solo un estudiante aspirante a trabajar en línea. Aquí hay algunos puntos clave sobre mí:
+
+- 🌑 **Roblox Scripter [Hobby]** 🚀
+- 💻 **Aprendiendo Desarrollo de Software** 💻
+- 📹 **Editor de Videos [5 Años]** 🎬
+
+¡Si tienes alguna pregunta o estás interesado en colaborar, no dudes en conectarte conmigo en Discord (PapLion#95228)!
+
+## Portafolio de Desarrollo Web
+
+Visita mi [Portafolio de Desarrollo Web](https://paplion.github.io/Portafolio-Panda/src/) para ver mis habilidades, proyectos y más.
+
+¡Conéctate conmigo y construyamos algo increíble juntos!
+
+# Estudios para convertirme en desarrollador
+Llevo 2 años aprendiendo programación, pero solo conozco los conceptos básicos y aún no he trabajado en ningún proyecto grande. Este año estoy comprometido a convertirme en un desarrollador y comenzar a trabajar. Gracias a este compromiso, he dado grandes pasos, como explorar mis pasiones.
+
+Este repositorio es mi "Cuaderno de Borrador", donde documentaré parte mis estudios y todo lo relacionado con mi proceso de aprendizaje. Advierto que mi ortografía está en proceso de mejora, así que, si eres sensible a este aspecto, ten cuidado.
