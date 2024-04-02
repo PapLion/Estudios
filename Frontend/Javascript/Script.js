@@ -108,12 +108,12 @@ const CLIENT ={
 
 //Dom
 // cambiar elemento de html
-document.getElementById("h1").innerHTML="Esto ahora usa javascript";
+//document.getElementById("h1").innerHTML="Esto ahora usa javascript";
 
 //JavaScript escucha eventos (espera a que se ejecute un evento)
-function onClick(){
-    document.getElementById("h1").innerHTML(Date());
-}
+//function onClick(){
+//    document.getElementById("h1").innerHTML(Date());
+//}
 
 //String
 texto = "ola andres \"dame de tu pepsi\""; //Asi sale las "" 
@@ -555,3 +555,28 @@ try{
 }
 
 //CallBack
+function mostrarEnConsola(num){
+  console.log(num)
+}
+
+function sumaConsola(x,y,CallBack){
+  let suma = x + y;
+  CallBack(suma)
+}
+
+sumaConsola(1,3,mostrarEnConsola);
+
+//Promesas
+let promesa = new Promise((response,PromiseRejection) =>{
+  let res = {
+    description
+  }
+  response("salio todo bien")
+  PromiseRejection("error")
+})
+
+promesa.then(res => {
+  console.log(res)
+}).catch(error => {
+  console.error(error)
+})
