@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+.gd-img{
+    margin-left:30%;
+}
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-right: 150px;
+}
