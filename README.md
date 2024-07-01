@@ -20,7 +20,7 @@ Soy solo un estudiante aspirante a trabajar en línea. Aquí hay algunos puntos 
 
 ## Portafolio de Desarrollo Web
 
-Visita mi [Portafolio de Desarrollo Web](https://paplion.github.io/Portafolio-Panda/src/) para ver mis habilidades, proyectos y más.
+Visita mi [Portafolio de Desarrollo Web](https://paplion.github.io/Portafolio-Panda/src/html/) para ver mis habilidades, proyectos y más.
 
 ¡Conéctate conmigo y construyamos algo increíble juntos!
 
