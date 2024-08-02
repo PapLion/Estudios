@@ -1,5 +1,79 @@
 # ROADMAPS (CON TEMAS EN BRUTO)
 
+## Aprendizajes necesarios actualmente para el entorno laboral
+	-Aprender Typescript
+	-Aprender React
+	-Aprender Vite
+ 	-Aprender Astro
+ 	-Mejorar en CSS, JS y Boostrap
+	-UX y UI
+	-Aprender TailwindCss y SASS
+	-Ciencia de la computación
+	-Ingles
+## Aprendizajes necesarios actualmente para la universidad
+	-Química
+	-Matemáticas
+	-Física
+	-Razonamiento
+	-Ciencia de la computación
+	-Ingles
+	-Ciencias Sociales
+	-Ciencias Naturales
+	-Lenguaje y Literatura
+## Aprender por Sofía o por capricho personal
+	-Rust
+	-Deep Learning
+	-SQL
+	-MySQL
+	-MongoDB
+	-Robotica
+	-Astronomia y astrologia
+	-Musica (Piano y Software de musica)
+	-Camarografía
+	-Supervivencia
+	-Diseño y edicion Grafica
+	-Edicion de video
+	-Modelado 3D
+	-Arte
+	-Cocina
+	-Cuidado(de Adultos, niños, bebes, adolescentes, gatos, perros y ancianos)
+	-Cuidado personal y fisico
+	-Cuidado y mantenimiento del hogar
+	-Japonés
+	-Noruego
+	-Ingles
+	-Taido
+	-Boxeo
+	-Palo Bo
+	-Jiujitsu
+	-Ajedrez
+	-Shogi
+	-Trucos de magia
+	-Masajes
+	-Placer femenino
+	-Leyes y derecho
+	-Filosofia
+	-Manejo correcto del dinero
+	-Canto
+	-Manualidades(Detalles para la pareja) y Origami
+	-Buenas practicas de organizacion, inventarios etc
+	-Tecnicas y practicas para la seguridad de todos en todas las zonas existentes sean casas, escuelas, etc
+	-Alemán
+	-Medicina
+	-Veterinaria
+	-Mecanica
+	-Voley
+	-Psicologia
+## Videos q necesito ver otra vez
+	-https://www.youtube.com/watch?v=i_mFCfw5s14
+	-https://www.youtube.com/watch?v=J3zvT_xAdwQ
+	-https://www.youtube.com/watch?v=jX2EwAj18Tk
+	-https://www.youtube.com/watch?v=5PV7ATxW6hI
+	-https://www.youtube.com/watch?v=0r9llHrqU9k
+	-https://www.youtube.com/watch?v=MPEjt48npCU
+	-https://www.youtube.com/watch?v=ejD7Gp2_lPo
+	-https://www.youtube.com/watch?v=RDwknIIflIo
+
 ## Roadmaps Elaborados
 ### -Química
 	-Fundamentos
@@ -109,222 +183,3 @@
 	-Literatura Infantil y Juvenil
 	-Estudios de Literatura Nacionales y Regionales
 	-Estudios interdisciplinarios
-
-## Roadmaps que globalizan temas
-### -Sociales
-	-Introducción
-	-Sociología
-	-Antropología
-	-Psicología
-	-Economía
-	-Ciencia Política
-	-Geografía Humana
-	-Historia
-	-Metodología de la Investigacicón
-	-Teoría Social y Crítica
-	-Estudios de Género y Sexualidad
-	-Estudios Globales y de Desarrollo
-	-Estudios de la Comunicación
-	-Psicología Clínica y de la Salud
-	-Economía Aplicada
-	-Política Comparada y Estudios Regionales
-	-Antropología Aplicada
-	-Estudios de Paz y Conflicto
-	-Filosofía
-	-Leyes y Derechos
-### -Ciencias Naturales
-	-Introducción
-	-Biología Básica
-	-Química Básica
-	-Física Básica
-	-Ciencias de la tierra y el espacio
-	-Biología Intermedia
-	-Química Intermedia
-	-Física Intermedia
-	-Geolofía y Ciencias Ambientales
-	-Biología Avanzada
-	-Química Avanzada
-	-Física Avanzada
-	-Astronomía y Cósmología
-	-Biología Marina y Oceanografía
-	-Ecología y Ciencias Ambientales
-	-Ciencias Atmosféricas
-	-Ciencias de Materiales
-	-Bioquímica y Biología Molecular
-
-## Tecnológias
-### -Ciencias de la computación
-	-Introducción
-	-Fundamentos de la programación
-	-Estructuras de datos basicas
-	-Matemáticas Discretas
-	-Estructuras de Datos Avanzadas
-	-Algoritmos
-	-Programación Orientada a Objetos
-	-Sistemas Operativos
-	-Bases de datos
-	-Teoria de la computación
-	-Inteligencia Artificial
-	-Ingieneria de Software
-	-Redes de computadoras	
-	-Seguridad Informatica
-	-Computación Paralela y Distribuida
-	-Ciencias de Datos
-	-Robotica
-	-COmputación Cuántica
-	-Teoría de la información
-### -Arte(Dibujo)
-	-Introducción
-	-Dibujos y Bocetos
-	-Teoría del color
-	-Pintura
-	-Escultura
-	-Composición y Diseño
-	-Técnicas de pintura avanzada
-	-Dibujo del cuerpo humanpo
-	-Escultura Avanzada	
-	-Historia del arte
-	-Técnicas de grabado y Estampado
-	-Arte comptemporáneo y Conceptual
-	-Teoría y Críatica de Arte
-	-Proyectos Artísticos y Portafolios
-	-Tecnología y Arte Digital
-	-Fotografía Artistica
-	-Arte Urbano y Grafiti
-	-Arte Textil y Moda
-	-Arte y Terapia
-	-Educación y Formación continua
-	-Estudio de casos y Analisis de los proyectos
-	-Impacto a nivel cultural y social del arte
-	-Nuevas tecnologías en el arte
-### -Edición de Video
-	-Introducción
-	-Interfaz del software de Edición
-	-Fundamentos de la Edición de video
-	-Audió y Música
-	-Títulos y Gráficos Básicos
-	-Técnicas de Edición Avanzada
-	-Corrección de Color y Granding
-	-fectos Visuales y Composición
-	-Edición de Audio Avanzada
-	-Optimización y Exportación
-	-Narrativa y montaje avanzado
-	-Animación y Motion Graphics
-	-Efectos Especiales y 3D
-	-Proyecto y Gestión de Medios
-	-Edición Documental y Cinematográfica
-	-Edición para Redes Sociales
-	-Edición de Video Musical
-	-Producción y Edición de cortometrajes
-	-Edición de Elementos en vivo
-	-Nuevas tecnologías y Herramientas
-	-Educación y Formación Continua
-	-Impacto Cultural y Socíal
-### -Edición Grafíca
-	-Introducción
-	-Interfaz y Herramientas de Software
-	-Fundamentos de Edición de imágenes
-	-Trabajo con textos y tipografías
-	-Creación de Gráficos Básicos
-	-Técnicas de Selección y Máscaras	
-	-Filtros y Efectos Especiales
-	-Composición y Montaje de Imágenes
-	-Edición de Gráficos Vectoriales
-	-Diseño para la web y Medios Digitales
-	-Retoque y manipulación de imágenes
-	-Diseño Editorial	
-	-Ilustración Digital
-	-Preparación de archivos para Impresión
-	-Diseño de identidad Visual
-	-Animación y Motion Graphics
-	-Gráficos para Redes Sociales
-	-Arte digital y Concept art
-	-Nuevas tendencias en diselo Gráfico
-	-Estudios de caso y Análisis de proyectos
-	-Educación y Formación Continua
-	-Impacto Cultural y Social del Diseño Gráfico
-### -Música (Piano)
-	-Introducción
-	-Fundamentos
-	-Técnicas de piano Básicas
-	-Acordes y Arpegios Básicos
-	-Lectura de Partituras
-	-Técnicas de piano intermedio
-	-Acordes y Arpegios Intermedios
-	-Interpretación de Piezas Clásicas
-	-Improvisación y Composición Básicas
-	-Lectura Avanzada de Partituras
-	-Técnicas Avanzanas de piano
-	-Interpretación de Piesas Avanzadas
-	-Improvisación y Composición Avanzada
-	-Música de Cámara y Acompañamiento
-	-Piano Jazz
-	-Piano Contemporáneo
-	-Piano y Tecnologías
-	-Actualización en Tecnologías
-	-Impacto cultural y Social
-	-Practica Continúa
-### -Modelado(3d)
-	-Introducción
-	-Interfaz y Herramientas del Software
-	-Creación de Objetos Basicos
-	-Texturizado y Materiales
-	-Iluminación y Renderizado Básico
-	-Técnicas de Modelado Avanzadas
-	-Escultura Digital
-	-Rigging y Animación Básica
-	-Simulación Y Efectos
-	-Renderizado Avanzado
-	-Modelado de Personajes
-	-Texturizado Avanzado
-	-Rigging y Animación Avanzada
-	-Modelado para juegos
-	-Modelado Arquitectónico
-	-Modelado de Vehículos y Maquinaria
-	-Visualización y Presentación
-	-Vfx
-	-Escaneo y Reconstrucción 3d
-	-Nuevas tecnologías y sus herramientas
-	-Estudios de caos y Análisis de Proyectos
-	-Practica Continua
-	-Impacto cultural y social
-### -Ux/Ui
-	-Introducción
-	-Fundamentos de diseño de interfaz
-	-Herramientas y Software de diseño
-	-Investigaciónes de Usuario
-	-Diseño centrado en el usuario
-	-Aquitectura de información
-	-Prototipado y Testing
-	-Interacción y Animación
-	-Diseño Responsivo
-	-Accesibilidad y Diseño inclusivo
-	-Sistema de diseño	
-	-Estrategia y Gestión de UX
-	-Psicología del Usuario
-	-Innovación y Diseño futuro
-	-Integración de Desarrollo
-	-Diseño de Interfaces Móviles
-	-Diseño de interfaces para lot
-	-Diseño de experiencias de voz	
-	-Investigación Avanzada de Usuario
-	-Nuevas tecnologías y Herramientas
-	-Estudios de Casos y Analísis de proyectos
-	-Educación y Formación Continua
-	-Impacto cultural y social del diseño Ux e Ui
-
-## Extra sq debo de pedir a chat gpt
-	-Astronomia y Astrologia
-	-Creación de musica desde la computadora || Grand Piano(Añadir directamente a musica piano)
-	-Cuidado de un bebé
-	-Camarografia
-	-Manejo Correcto del Dinero
-	-Soporte tecnico(robotica)
-	-Mejóres Prácticas para Organización
-	-Manualidades y Origami
-	-Cuidado Físico y Personal
-	-Canto
-	-Cuidado de bebes y de personas y de niños y de adolescentes y de adultos y de ancianos
-	-Masajes
-	-Placer en el cuerpo humano (FEMENINO)
-	-Trucos de Magía
