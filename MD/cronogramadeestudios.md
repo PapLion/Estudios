@@ -1,25 +1,15 @@
 # ROADMAPS (CON TEMAS EN BRUTO)
 
 ## Aprendizajes necesarios actualmente para el entorno laboral
-	-Aprender Typescript
-	-Aprender React
-	-Aprender Vite
- 	-Aprender Astro
- 	-Mejorar en CSS, JS y Boostrap
-	-UX y UI
-	-Aprender TailwindCss y SASS
 	-Ciencia de la computación
 	-Ingles
 ## Aprendizajes necesarios actualmente para la universidad
 	-Química
 	-Matemáticas
 	-Física
-	-Razonamiento
+	-Razonamiento(IPC)
 	-Ciencia de la computación
 	-Ingles
-	-Ciencias Sociales
-	-Ciencias Naturales
-	-Lenguaje y Literatura
 ## Aprender por Sofía o por capricho personal
 	-Rust
 	-Deep Learning

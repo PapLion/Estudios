@@ -1,1 +1,0 @@
-Aprender todo git lol y simplemente usar git help por si aca xd
